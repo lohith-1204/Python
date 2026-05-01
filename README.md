@@ -19,7 +19,7 @@ I'm documenting my journey to become a Data Analyst / Data Scientist.
 * SQL
 * Excel & Power BI
 * Statistics
-* Machine Learning (future)
+* Machine Learning 
 
 ---
 
